@@ -3,6 +3,7 @@ import React, {useEffect, useState} from 'react';
 import './App.css';
 
 const APP_ID = ;
+const APP_KEY = ;
 
 function App() {
   return (
