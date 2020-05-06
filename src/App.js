@@ -5,6 +5,8 @@ import './App.css';
 const APP_ID = ;
 const APP_KEY = ;
 
+const [search, setSearch] = useState("");
+
 function App() {
   return (
     <div className="App">
