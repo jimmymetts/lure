@@ -11,9 +11,7 @@ const [query, setQuery] = useState('chicken');
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-    
-      </header>
+
     </div>
   );
 }
